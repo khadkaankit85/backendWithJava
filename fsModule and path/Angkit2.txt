@@ -1,0 +1,4 @@
+This is being written with writeFile function
+ appending with first callback
+ appending twice
+Ankit khadka is appending this with await function
