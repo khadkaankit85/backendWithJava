@@ -1,6 +1,6 @@
 //i created nodemon to refresh server each time program changes
 //we have to start tracking file with nodemon filename.js command
-
+//i can user import statement to import http model but i have to change type to module.
 const http = require('node:http');
 const hostname = '127.0.0.1';
 const port = 3000;
